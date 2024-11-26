@@ -1,0 +1,3 @@
+THE RMS OF using 2 points is: 51.7507 gpm
+THE RMS OF using 4 points is: 49.848 gpm
+THE RMS OF using 10 points is: 50.9414 gpm
